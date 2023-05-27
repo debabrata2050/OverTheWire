@@ -31,7 +31,7 @@ Here are all the passwords for the levels.<br><br>
 </tr>
 <tr>
   <td>Lv4 - Lv5</td>
-  <td></td>
+  <td>2EW7BBsr6aMMoJ2HjW067dm8EgX26xNe</td>
 </tr>
 <tr>
   <td>Lv5 - Lv6</td>
