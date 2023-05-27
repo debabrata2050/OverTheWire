@@ -1,0 +1,25 @@
+Level 0
+
+Goal:
+Log into the game using SSH. Once logged in, go to the Level 1 page to find out how to beat Level 1.
+
+SSH Information
+Host: bandit.labs.overthewire.org
+Port: 2220
+
+Login SSH:
+User: bandit0
+Pass: bandit0
+
+In this chall, we just connect remotely to their server by using "ssh" with user:bandit0 & password:bandit0
+Use man ssh for more details
+Syntax: ssh user@host -l port
+With
+-l: choose user to login
+-p: port to connect
+
+For shorter, we can use:
+Syntax: ssh user@host -p port
+
+Solution:
+Command: ssh  bandit.labs.overthewire.org -l bandit0 -p 2220
