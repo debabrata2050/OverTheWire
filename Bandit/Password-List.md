@@ -1,6 +1,6 @@
 # Password 🔑
-Here are all the password of the levels<br>
-:small_red_triangle: Please note that these passwords may change in the near future. So you are advise to use the procedure to get your password.<br>
+Here are all the passwords for the levels.<br><br>
+:small_red_triangle: <b>Please note that these passwords may change in the near future, so please use the procedure to get your password</b><br>
 <table>
 <thead>
   <tr>
