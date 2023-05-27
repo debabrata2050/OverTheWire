@@ -23,11 +23,11 @@ Here are all the passwords for the levels.<br><br>
   </tr>
   <tr>
     <td>Lv2 - Lv3</td>
-    <td></td>
+    <td>rRGizSaX8Mk1RTb1CNQoXTcYZWU6lgzi</td>
   </tr>
 <tr>
   <td>Lv3 - Lv4</td>
-  <td></td>
+  <td>aBZ0W5EmUfAf7kHTQeOwd8bauFJ2lAiG</td>
 </tr>
 <tr>
   <td>Lv4 - Lv5</td>
