@@ -10,15 +10,15 @@
 <tbody>
   <tr>
     <td>Lv0</td>
-    <td></td>
+    <td>bandit0</td>
   </tr>
   <tr>
     <td>Lv0 - Lv1</td>
-    <td></td>
+    <td>bandit0</td>
   </tr>
   <tr>
     <td>Lv1 - Lv2</td>
-    <td></td>
+    <td>NH2SXQwcBdpmTEzi3bvBHMM9H66vVXjL</td>
   </tr>
   <tr>
     <td>Lv2 - Lv3</td>
