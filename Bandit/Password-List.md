@@ -39,7 +39,7 @@ Here are all the passwords for the levels.<br><br>
 </tr>
 <tr>
   <td>Lv6 - Lv7</td>
-  <td></td>
+  <td>P4L4vucdmLnm8I7Vl7jG1ApGSfjYKqJU</td>
 </tr>
 <tr>
   <td>Lv7 - Lv8</td>
