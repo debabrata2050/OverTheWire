@@ -59,7 +59,7 @@ Here are all the passwords for the levels.<br><br>
 </tr>
 <tr>
   <td>Lv11 - Lv12</td>
-  <td></td>
+  <td>6zPeziLdR2RKNdNYFNb6nVCKzphlXHBM</td>
 </tr>
 <tr>
   <td>Lv12 - Lv13</td>
